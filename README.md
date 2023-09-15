@@ -1,4 +1,6 @@
 # Multi-Layer Perceptron (MLP) Implementation from Scratch
+![mlp_gif](ANN-Graph.gif)
+
 
 This repository contains a Python implementation of a Multi-Layer Perceptron (MLP) from scratch. The MLP is designed to handle classification tasks. The code includes the construction of the MLP class, forward and backward propagation, training functionality, and an example of its usage on a specific dataset.
 
